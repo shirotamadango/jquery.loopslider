@@ -1,4 +1,0 @@
-jquery.loopslider
-=================
-
-jquery slider
