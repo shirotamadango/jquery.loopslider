@@ -1,3 +1,10 @@
+/*
+ *  jQuery loopslider v1.0.0
+ *
+ *  Copyright (c) 2013 Shirotama Dango
+ *
+ */
+
 ;(function($){
     $.fn.loopSlider = function(options){
         
